@@ -80,8 +80,8 @@ Ingeniería Informática — Egresado
 
 ## Contacto
 
-- LinkedIn: [linkedin.com/in/hubert-valderrama](https://linkedin.com/in/hubert-valderrama)
-- Email: hubertvalderrama@email.com
+- LinkedIn: [https://www.linkedin.com/in/hubertvalderrama/](https://www.linkedin.com/in/hubertvalderrama/)
+- Email: hubertvalderramacampos@gmail.com
 
 ---
 
