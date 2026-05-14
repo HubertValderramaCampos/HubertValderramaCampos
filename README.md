@@ -1,6 +1,6 @@
 # Hubert José Valderrama Campos
 
-**Ingeniero Informático — UNFV**  
+**Egresado de Ingeniería Informática — UNFV**  
 Especializado en Inteligencia Artificial aplicada, Visión Artificial y Automatización de Procesos
 
 ---
