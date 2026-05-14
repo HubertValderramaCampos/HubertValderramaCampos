@@ -16,26 +16,20 @@ He colaborado con organismos internacionales, empresas del sector financiero, im
 ## Experiencia Profesional
 
 ### Center for Advanced Analytics
-**Proyecto de Social Listening para USAID**  
+
+Empresa de consultoría tecnológica en la que participé en el desarrollo de soluciones de inteligencia artificial y análisis de datos para clientes de distintos sectores. Proyectos entregados:
+
+**Social Listening para USAID**  
 Desarrollo de una solución de análisis de redes sociales y medios digitales orientada a la extracción de insights para la toma de decisiones estratégicas en cooperación internacional.
 
----
-
-### Financiera Oh
-**Automatización de Atención de Reclamos con Agentes de IA**  
+**Financiera Oh — Automatización de Atención de Reclamos con Agentes de IA**  
 Diseño e implementación de un sistema multiagente para la gestión y resolución automatizada de reclamos de clientes. Reducción de tiempos de atención y escalabilidad operativa mediante orquestación de agentes con LangGraph.
 
----
-
-### Ya Toca
-**Chatbot con Inteligencia Artificial**  
+**Ya Toca — Chatbot con Inteligencia Artificial**  
 Desarrollo de un asistente conversacional basado en modelos de lenguaje de gran escala (LLM) para atención y orientación de usuarios, integrado en los flujos operativos de la plataforma.
 
----
-
-### Catusita — Importadora de Autopartes
-**Dashboard de Ventas**  
-Construcción de un panel de análisis y visualización de datos de ventas en tiempo real, orientado a la gestión comercial y la toma de decisiones basada en datos.
+**Catusita — Dashboard de Ventas**  
+Construcción de un panel de análisis y visualización de datos de ventas en tiempo real para Catusita, importadora de autopartes, orientado a la gestión comercial y la toma de decisiones basada en datos.
 
 ---
 
